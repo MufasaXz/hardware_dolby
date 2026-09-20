@@ -54,6 +54,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     init.dolby.rc
 
+# LunarisDolby
+PRODUCT_PACKAGES += \
+    LunarisDolby
+
 # Overlays    
 PRODUCT_PACKAGES += \
     DolbyFrameworksResCommon
